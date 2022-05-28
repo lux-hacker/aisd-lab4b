@@ -1,0 +1,10 @@
+/build
+/cmake-build-debug
+CMakeLists.txt
+timing
+lab4b
+counter
+timing.csv
+tree.png
+tree.txt
+/.idea
